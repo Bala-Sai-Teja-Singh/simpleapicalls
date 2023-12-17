@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/simpleapicaslls/static/css/main.b1d7ec7b.css",
+    "main.js": "/simpleapicaslls/static/js/main.329b971f.js",
+    "static/js/787.96e7cefb.chunk.js": "/simpleapicaslls/static/js/787.96e7cefb.chunk.js",
+    "index.html": "/simpleapicaslls/index.html",
+    "main.b1d7ec7b.css.map": "/simpleapicaslls/static/css/main.b1d7ec7b.css.map",
+    "main.329b971f.js.map": "/simpleapicaslls/static/js/main.329b971f.js.map",
+    "787.96e7cefb.chunk.js.map": "/simpleapicaslls/static/js/787.96e7cefb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1d7ec7b.css",
+    "static/js/main.329b971f.js"
+  ]
+}
